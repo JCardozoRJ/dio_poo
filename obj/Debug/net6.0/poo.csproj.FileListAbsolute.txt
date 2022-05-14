@@ -1,0 +1,15 @@
+/home/jorgecardozo/projects/csharp/dio_gft/poo/obj/Debug/net6.0/poo.csproj.AssemblyReference.cache
+/home/jorgecardozo/projects/csharp/dio_gft/poo/obj/Debug/net6.0/poo.GeneratedMSBuildEditorConfig.editorconfig
+/home/jorgecardozo/projects/csharp/dio_gft/poo/obj/Debug/net6.0/poo.AssemblyInfoInputs.cache
+/home/jorgecardozo/projects/csharp/dio_gft/poo/obj/Debug/net6.0/poo.AssemblyInfo.cs
+/home/jorgecardozo/projects/csharp/dio_gft/poo/obj/Debug/net6.0/poo.csproj.CoreCompileInputs.cache
+/home/jorgecardozo/projects/csharp/dio_gft/poo/bin/Debug/net6.0/poo
+/home/jorgecardozo/projects/csharp/dio_gft/poo/bin/Debug/net6.0/poo.deps.json
+/home/jorgecardozo/projects/csharp/dio_gft/poo/bin/Debug/net6.0/poo.runtimeconfig.json
+/home/jorgecardozo/projects/csharp/dio_gft/poo/bin/Debug/net6.0/poo.dll
+/home/jorgecardozo/projects/csharp/dio_gft/poo/bin/Debug/net6.0/poo.pdb
+/home/jorgecardozo/projects/csharp/dio_gft/poo/obj/Debug/net6.0/poo.dll
+/home/jorgecardozo/projects/csharp/dio_gft/poo/obj/Debug/net6.0/refint/poo.dll
+/home/jorgecardozo/projects/csharp/dio_gft/poo/obj/Debug/net6.0/poo.pdb
+/home/jorgecardozo/projects/csharp/dio_gft/poo/obj/Debug/net6.0/poo.genruntimeconfig.cache
+/home/jorgecardozo/projects/csharp/dio_gft/poo/obj/Debug/net6.0/ref/poo.dll
